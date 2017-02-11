@@ -1,4 +1,4 @@
-package com.erasmusproj;
+package com.erasmusproject;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
